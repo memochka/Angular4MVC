@@ -1,0 +1,32 @@
+﻿.table-sortable > thead > tr > th {
+    cursor: pointer;
+    position: relative;
+    background-image: none;
+}
+
+    .table-sortable > thead > tr > th:after,
+    .table-sortable > thead > tr > th.sort-false:after,
+    .table-sortable > thead > tr > th.sort-true:after {
+        font-family: FontAwesome;
+        padding-left: 5px;
+    }
+
+    .table-sortable > thead > tr > th:after {
+        content: "\f0dc";
+        color: #ddd;
+    }
+
+    .table-sortable > thead > tr > th.sort-false:after {
+        content: "\f0de";
+        color: #767676;
+    }
+
+    .table-sortable > thead > tr > th.sort-true:after {
+        content: "\f0dd";
+        color: #767676;
+    }
+
+.table-btn {
+    background-color: #428bca;
+    color: white;
+}

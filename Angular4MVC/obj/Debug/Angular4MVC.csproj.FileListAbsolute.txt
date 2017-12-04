@@ -1,0 +1,156 @@
+c:\Примеры Кода\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.csproj.CoreCompileInputs.cache
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\ApplicationInsights.config
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\csc.exe
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\csc.exe.config
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\csc.rsp
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\csi.exe
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\csi.rsp
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\System.AppContext.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\System.Collections.Immutable.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\System.IO.FileSystem.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\System.Reflection.Metadata.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\vbc.exe
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\vbc.exe.config
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\vbc.rsp
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\VBCSCompiler.exe
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\roslyn\VBCSCompiler.exe.config
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Angular4MVC.dll.config
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Angular4MVC.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Angular4MVC.pdb
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Antlr3.Runtime.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\EntityFramework.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\EntityFramework.SqlServer.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.DependencyCollector.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.Web.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.WindowsServer.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.ApplicationInsights.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.Web.Infrastructure.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Newtonsoft.Json.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Net.Http.Formatting.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Helpers.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Http.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Http.WebHost.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Mvc.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Optimization.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Razor.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Deployment.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Razor.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\WebGrease.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\EntityFramework.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\EntityFramework.SqlServer.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Helpers.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Mvc.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Optimization.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Razor.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Deployment.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Razor.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Antlr3.Runtime.pdb
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Newtonsoft.Json.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Net.Http.Formatting.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Http.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\System.Web.Http.WebHost.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.ApplicationInsights.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.DependencyCollector.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.WindowsServer.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\bin\Microsoft.AI.Web.xml
+c:\Примеры Кода\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.dll
+c:\Примеры Кода\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.pdb
+c:\Примеры Кода\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.csprojResolveAssemblyReference.cache
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\ApplicationInsights.config
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\csc.exe
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\csc.exe.config
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\csc.rsp
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\csi.exe
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\csi.rsp
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\System.AppContext.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\System.Collections.Immutable.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\System.IO.FileSystem.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\System.Reflection.Metadata.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\vbc.exe
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\vbc.exe.config
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\vbc.rsp
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\VBCSCompiler.exe
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\roslyn\VBCSCompiler.exe.config
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Angular4MVC.dll.config
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Angular4MVC.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Angular4MVC.pdb
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Antlr3.Runtime.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\EntityFramework.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\EntityFramework.SqlServer.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.Agent.Intercept.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.DependencyCollector.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.Web.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.WindowsServer.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.ApplicationInsights.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.Web.Infrastructure.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Newtonsoft.Json.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Net.Http.Formatting.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Helpers.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Http.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Http.WebHost.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Mvc.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Optimization.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Razor.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Deployment.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Razor.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\WebGrease.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\EntityFramework.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\EntityFramework.SqlServer.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Helpers.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Mvc.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Optimization.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Razor.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Deployment.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.WebPages.Razor.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Antlr3.Runtime.pdb
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Newtonsoft.Json.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Net.Http.Formatting.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Http.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\System.Web.Http.WebHost.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.ApplicationInsights.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.DependencyCollector.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.WindowsServer.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\bin\Microsoft.AI.Web.xml
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.csprojResolveAssemblyReference.cache
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.csproj.CoreCompileInputs.cache
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.dll
+f:\Программирование\C#\Проэкты\Angular4MVC\Angular4MVC\obj\Debug\Angular4MVC.pdb

@@ -1,0 +1,26 @@
+﻿<div class='panel panel-primary'>
+  <div class='panel-heading'>
+    User Management
+  </div>
+  <div class='panel-body'>
+
+      <data-grid [columns]="columns"
+                 [data]="users"
+                 [gridbtns]="gridbtns"
+                 [hdrbtns]="hdrbtns"
+                 [sort]="sorting"
+                 [isshowfilter]=true
+                 [isExporttoCSV]=true
+                 [exportFileName]="exportFileName"
+                 [filter] = userfilter
+                 (btnclick)="gridaction($event)">
+      </data-grid>
+
+    <div *ngIf="msg" role="alert" class="alert alert-info alert-dismissible">
+      <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+      <span class="sr-only">Error:</span>
+      {{msg}}
+    </div>
+  </div>
+</div>
